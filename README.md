@@ -1,6 +1,6 @@
 # Coursework-2025
 
-# Окно авторизации
+# Окно авторизации:
 
 <img width="905" height="753" alt="изображение" src="https://github.com/user-attachments/assets/a79684e4-a8a5-4a8b-90f5-c4130366b96d" />
 
